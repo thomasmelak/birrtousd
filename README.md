@@ -2,7 +2,10 @@
 
 ## Description
 A python script that fetches daily USD to BIRR exchange rates from Commercial Bank of Ethiopia Website.
-  
+
+## Requirements
+
+Make sure to install beautiful soup by running `pip install bs4`
 
 ## Usage
 
